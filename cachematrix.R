@@ -1,5 +1,5 @@
 ## I wrote two functions to find the inverse of a invertible matrix. Once the inverse matrix has been stored to cache,
-## I can retrieve it directly and save the time to recalculate it.
+## I can retrieve it directly and save the time of recalculating it.
 
 
 ############# First Function #####################################
